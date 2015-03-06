@@ -13,7 +13,7 @@ $(document).ready(function () {
 });
 
 
-/* click on button */
+/* click on button  */
 function clickButton() {
     $(document).on('click', '#button1', function () {
         console.log('clickButton');
